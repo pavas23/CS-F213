@@ -1,2 +1,0 @@
-Hi,
-This is test text file created for Lab 11.
